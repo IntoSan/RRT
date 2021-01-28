@@ -9,6 +9,6 @@
 ![Пример 50](https://github.com/IntoSan/RRT/raw/main/50iterations.png)
 
 # Найденный путь
-![Результат](https://github.com/IntoSan/RRT/raw/main/Result.png)
+![Результат](https://github.com/IntoSan/RRT/raw/main/RESULT.png)
 
 # [Видео с работой](https://drive.google.com/drive/folders/1Rpp8Hx-TUk4DHsUAXegAECU2mUWkipOe?usp=sharing)
